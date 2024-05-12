@@ -1,4 +1,4 @@
-# Stock Market Broker API
+# Github Finder API
 
 This is a Node.js project built using Express.js framework and Sequelize ORM with MySQL database.
 
